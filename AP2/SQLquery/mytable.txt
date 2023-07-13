@@ -1,0 +1,17 @@
+name~id~age
+reza ali~0~16
+reza ali~1~20
+mah~null~17
+ali~3~5
+taha~4~123
+ali~5~3
+ali~6~3
+ali~7~3
+ali~8~7
+ali~9~-8
+mahdi~10~14
+farhad~19~21
+sahar~90~98
+zahra~94~null
+
+
