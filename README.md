@@ -1,1 +1,1 @@
-The 2nd project of Advanced Programming class
+The 2nd project of Advanced Programming cource
